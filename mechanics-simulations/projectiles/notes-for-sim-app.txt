@@ -1,0 +1,17 @@
+Here are some ideas for the interactive application concerning projectiles moving 
+through media with drag. The main capabilities are to be:
+    - varying of initial conditions, such as velocity, position, and launch angle
+    - varying of dimensions of the sphere, as well as mass (or density)
+    - varying of the linear and quadratic drag coefficients 
+    - plotting of dragless, linear, quadratic and combined (both linear and quadratic) 
+      trajectories 
+    - a line and angle indicator
+    - animation of the trajectory, comparing with dragless; should show time elapsed and velocities 
+    - interactivity 
+    
+
+Other things that I would like to calculate:
+    - problem 2.44 from taylor - varying drag coefficients
+
+An aside:
+    - dynamics of a raindrop falling --> one dimensional, but both linear and quadratic 
